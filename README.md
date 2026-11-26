@@ -1,4 +1,4 @@
-# Horizon Agenda — Front-end
+# Teste Técnico Horizon — Front-end
 
 Aplicação web para gerenciar consultas e pacientes. O front-end oferece formulários, listagens, filtros e ações de consulta e envia as operações para uma API configurada por variável de ambiente.
 
@@ -168,14 +168,8 @@ As validações do front-end não substituem as regras da API.
 
 ## Testes e build
 
-Não há script de testes automatizados definido no `package.json`. O comando de build disponível é:
+O comando de build disponível é:
 
 ```powershell
 npm run build
 ```
-
-## Repositório
-
-Autor: Rodrigo Santos.
-
-[rodrigosantos-eng/front-end-teste-horizon](https://github.com/rodrigosantos-eng/front-end-teste-horizon)
